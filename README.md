@@ -37,6 +37,11 @@ Figure 10. Admin page
 ![image](https://github.com/user-attachments/assets/b34e05eb-0448-4589-96b0-d36a4be62e54)
 
 
+PostgreSQL
+![image](https://github.com/user-attachments/assets/ab276f96-1fee-4b3f-b244-486061562205)
+
+
+
 
 
 
